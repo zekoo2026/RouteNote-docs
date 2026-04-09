@@ -2,7 +2,7 @@
 
 **配達、配送やポスティング、営業や訪問ルートの記録、計画に**
 
-[English version](/en/)
+[English version](en/index.md)
 
 ---
 
