@@ -15,7 +15,7 @@
 - **機能7**: 再到着通知: 設定した地点に近づくと音声でお知らせ
 
 ## サポートメニュー
-- [使い方ガイド (マニュアル)](guide/)
+- [ユーザーズガイド](https://zekoo2026.github.io/RouteNote-docs/guide/RouteNote_UserGuide_JP)
 - [お問い合わせ](https://...) ## リーガルドキュメント
 - [利用規約](terms.md)
 - [プライバシーポリシー](privacy.md)
