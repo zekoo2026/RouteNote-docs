@@ -22,6 +22,6 @@
 
 ---
 
-[App Store でダウンロード](https://apps.apple.com/...)
+[App Store でダウンロード](https://apps.apple.com/app/%E8%BB%8C%E8%B7%A1%E3%83%A1%E3%83%A2/id1460240007)
 
 © 2026 iOS App Developer.
