@@ -16,7 +16,7 @@
 - **Feature 7**: Arrival Alerts: Get audio notifications when approaching saved locations.
 
 ## Support
-- [User Guide / Manual](guide/)
+- [User Guidel](https://zekoo2026.github.io/RouteNote-docs/en/guide/RouteNote_UserGuide_EN)
 - [Contact Support](https://...)
 
 ## Legal
