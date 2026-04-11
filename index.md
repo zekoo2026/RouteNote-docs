@@ -16,8 +16,7 @@
 
 ## サポートメニュー
 - [ユーザーズガイド](https://zekoo2026.github.io/RouteNote-docs/guide/RouteNote_UserGuide_JP)
-- [お問い合わせ](https://...) ## リーガルドキュメント
-- [Contact Support](mailto:applicast3@gmail.com?subject=RouteNote-Inquiry)
+- [お問い合わせ](mailto:applicast3@gmail.com?subject=RouteNote-Inquiry)
 - [利用規約](terms.md)
 - [プライバシーポリシー](privacy.md)
 
