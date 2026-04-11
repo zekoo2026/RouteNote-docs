@@ -1,3 +1,8 @@
+---
+layout: default
+title: User Guide
+---
+
 # RouteNote User Guide
 
 ## Table of Contents
