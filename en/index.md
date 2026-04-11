@@ -17,7 +17,7 @@
 
 ## Support
 - [User Guide](https://zekoo2026.github.io/RouteNote-docs/en/guide/RouteNote_UserGuide_EN)
-- [Contact Support](https://...)
+- [Contact Support](mailto:applicast3@gmail.com?subject=RouteNote-Inquiry)
 
 ## Legal
 - [Terms of Service](terms.md)
