@@ -1,3 +1,8 @@
+---
+layout: default
+title: User Guide
+---
+
 # 軌跡メモ（RouteNote）ユーザーズガイド
 
 ## 目次
