@@ -2,7 +2,7 @@
 
 **For recording delivery, sales**
 
-[日本語はこちら](/index.md)
+[日本語はこちら](../index.md)
 
 ---
 
